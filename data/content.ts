@@ -11,39 +11,39 @@ export type { ContactEntry, Project, ProjectCategory } from "./types";
 
 // ─── Hero ────────────────────────────────────────────────────
 export const heroData: HeroData = {
-  greeting: "Hi, I am XXX",
-  titles: ["a template", "still a template", "just a template"],
+  greeting: "Hi, I am 晏宁",
+  titles: ["CURIOSITY", "ENTHUSIASM", "CARENESS"],
 };
 
 // ─── Skills ──────────────────────────────────────────────────
 export const skillsData: SkillsData = {
-  skills: "claude, chatgpt, copilot, openclaw, gemini, deepseek ",
-  highlights: ["claude", "chatgpt"],
+  skills: "SQL, Python, Tableau, Javascript, Excel, deepseek ",
+  highlights: ["SQL", "Python"],
 };
 
 // ─── About ───────────────────────────────────────────────────
 export const aboutData: AboutData = {
   image: "/pic.png",
   imageAlt: " Character Illustration",
-  text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore e`,
+  text: `2021 - 2024  鲁汶大学`,
 };
 
 // ─── Contact ─────────────────────────────────────────────────
 export const contactData: ContactEntry[] = [
   {
     type: "Email",
-    value: "xxxxxxxx@g123.com",
-    href: "mailto:xxxxxxxx@g123.com",
+    value: "171653176@qq.com / zyjsgy@gmail.com",
+    href: "mailto:171653176@qq.com",
   },
 ];
 
 // ─── Work / Projects ─────────────────────────────────────────
 export const projectCategories: ProjectCategory[] = [
   {
-    category: "Web Development",
+    category: "My AI-assisted Products",
     projects: [
       {
-        title: "XXX",
+        title: "Interstitial Notes-Taking APP",
         image: "/projects/placeholder.png",
         techStack: ["GSAP", "Three.js"],
         href: "#",
