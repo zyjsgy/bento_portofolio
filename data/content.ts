@@ -23,7 +23,7 @@ export const skillsData: SkillsData = {
 
 // ─── About ───────────────────────────────────────────────────
 export const aboutData: AboutData = {
-  image: "/avatar.png",
+  image: "/avatar2.png",
   imageAlt: " Character Illustration",
   text: `2021 - 2024    KU Leuven`,
 };
