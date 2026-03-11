@@ -25,7 +25,7 @@ export const skillsData: SkillsData = {
 export const aboutData: AboutData = {
   image: "/pic.png",
   imageAlt: " Character Illustration",
-  text: `2021 - 2024  鲁汶大学`,
+  text: `2021 - 2024    KU Leuven`,
 };
 
 // ─── Contact ─────────────────────────────────────────────────
