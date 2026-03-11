@@ -25,8 +25,12 @@ export const skillsData: SkillsData = {
 export const aboutData: AboutData = {
   image: "/avatar4.png",
   imageAlt: " Character Illustration",
-  text: `I am now a Business Analyst responsible for data/case study as well as operation analysis. I derived my MASTER degree in KU Leuven in 2024, and during this period 
-  I learnt Photoshop and Front-End programming by myself, which gave me a lot of fun to express my ideas and creactivity`,
+  text: (
+    <span style={{ fontSize: "15px", fontWeight: "normal", color: "#3b82f6" }}>
+      I am now a Business Analyst responsible for data/case study as well as operation analysis. I derived my MASTER degree in KU Leuven in 2024, and during this period 
+  I learnt Photoshop and Front-End programming by myself, which gave me a lot of fun to express my ideas and creactivity
+    </span>
+    ),
 };
 
 // ─── Contact ─────────────────────────────────────────────────
