@@ -12,7 +12,7 @@ export type { ContactEntry, Project, ProjectCategory } from "./types";
 // ─── Hero ────────────────────────────────────────────────────
 export const heroData: HeroData = {
   greeting: "Hi, I am 晏宁",
-  titles: ["CURIOSITY", "ENTHUSIASM", "CARENESS"],
+  titles: ["CURIOSITY", "ENTHUSIASM", "STATISTICS"],
 };
 
 // ─── Skills ──────────────────────────────────────────────────
@@ -25,7 +25,8 @@ export const skillsData: SkillsData = {
 export const aboutData: AboutData = {
   image: "/avatar2.png",
   imageAlt: " Character Illustration",
-  text: `2021 - 2024    KU Leuven`,
+  text: `2021 - 2024  Master Degree - KU Leuven   Statistics and Data Science`,
+  highlights:["KU Leuven"],
 };
 
 // ─── Contact ─────────────────────────────────────────────────
