@@ -13,7 +13,7 @@ export type SkillsData = {
 export type AboutData = {
   image: string;
   imageAlt: string;
-  text: string;
+  text: React.ReactNode;
 };
 
 export type ContactEntry = {
