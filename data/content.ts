@@ -26,7 +26,6 @@ export const aboutData: AboutData = {
   image: "/avatar3.png",
   imageAlt: " Character Illustration",
   text: `2021 - 2024  Master Degree - KU Leuven   Statistics and Data Science`,
-  highlights:["KU Leuven"],
 };
 
 // ─── Contact ─────────────────────────────────────────────────
