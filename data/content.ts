@@ -25,8 +25,8 @@ export const skillsData: SkillsData = {
 export const aboutData: AboutData = {
   image: "/avatar4.png",
   imageAlt: " Character Illustration",
-  text: `I am now a Business Analyst responsible for data/case study as well as operation analysis. I derived my MASTER degree in KU Leuven in 2024, when I discovered my interet in creating things with computer.
-  During my study, I learnt Photoshop and Front-End programming by myself, which gave me a lot of fun to express my ideas`,
+  text: `I am now a Business Analyst responsible for data/case study as well as operation analysis. I derived my MASTER degree in KU Leuven in 2024, and during this period 
+  I learnt Photoshop and Front-End programming by myself, which gave me a lot of fun to express my ideas and creactivity`,
 };
 
 // ─── Contact ─────────────────────────────────────────────────
