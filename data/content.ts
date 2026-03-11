@@ -46,7 +46,7 @@ export const projectCategories: ProjectCategory[] = [
       {
         title: "Interstitial Notes-Taking APP",
         image: "/projects/placeholder.png",
-        techStack: ["GSAP", "Three.js"],
+        techStack: ["Vibe Coding"],
         href: "#",
       },
     ],
