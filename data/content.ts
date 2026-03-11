@@ -37,7 +37,7 @@ export const contactData: ContactEntry[] = [
   },
 ];
 
-// ─── Work / Projects ─────────────────────────────────────────
+// ─── Projects ─────────────────────────────────────────
 export const projectCategories: ProjectCategory[] = [
   {
     category: "My AI-assisted Products",
