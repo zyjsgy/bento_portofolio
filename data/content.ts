@@ -40,7 +40,7 @@ export const contactData: ContactEntry[] = [
 // ─── Projects ─────────────────────────────────────────
 export const projectCategories: ProjectCategory[] = [
   {
-    category: "My AI-assisted Products",
+    category: "My AI-assisted Projects",
     projects: [
       {
         title: "Interstitial Notes-Taking APP",
